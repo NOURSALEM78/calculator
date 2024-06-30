@@ -1,18 +1,12 @@
-  <h1 
-  class="text-5xl text-blue-950" dir="rtl" 
-  >المعلومات الشخصية</h1>
-  <hr>
-  <p dir="rtl">نور العبدالعزيز </p>
-  <p dir="rtl">طالبة</p>
-  <p dir="rtl">0566217334</p>
-  <h1 dir="rtl">السيرة الذاتية</h1>
-  <hr>
-  <p dir="rtl">طالبة في جامعة أم القرى في كلية الحاسبات.</p>
-  <p dir="rtl">عضو في الجنة التنظيمية بنادي الحاسبات.</p>
-  <h1 dir="rtl">المهارات</h1>
-  <hr/>
-  <p dir="rtl">اجادة استخدام كانفا.</p>
-  <p dir="rtl">ادخال بيانات.</p>
-  <p dir ="rtl">سرعة التعلم.</p>
-  <p dir="rtl">التفكير النقدي.</p>
-  <p dir="rtl">العمل الجماعي.</p>
+
+ <svelte:head>
+  <title>
+آلة حاسبه
+  </title>
+ </svelte:head>
+ <div class="bg-white h-[30rem] w-[20rem] rounded-2xl">
+  <div class="bg-black h-[5rem] w-[5rem] rounded-full flex justify-center">
+
+  
+  </div>
+ </div>
